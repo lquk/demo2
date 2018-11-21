@@ -32,6 +32,7 @@ public class DemoController {
             System.out.println(obj.toString() + "\r\n\t" + o.toString());
         }
         System.out.println("push");
+
     }
 
     public String getName() {
