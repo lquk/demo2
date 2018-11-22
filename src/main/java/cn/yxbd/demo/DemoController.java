@@ -32,6 +32,9 @@ public class DemoController {
             System.out.println(obj.toString() + "\r\n\t" + o.toString());
         }
         System.out.println("master");
+        String s1 = new String();
+        String s = new String();
+
 
     }
 
