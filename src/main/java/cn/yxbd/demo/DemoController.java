@@ -36,6 +36,7 @@ public class DemoController {
         String s = new String();
 
 
+        System.out.println("dev分支");
     }
 
     public String getName() {
@@ -60,5 +61,17 @@ public class DemoController {
 
     public void setAge(Integer age) {
         this.age = age;
+    }
+}
+
+class User {
+    private String name;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 }
