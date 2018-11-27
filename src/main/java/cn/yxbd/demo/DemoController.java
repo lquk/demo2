@@ -14,6 +14,7 @@ import java.util.Set;
 @ConfigurationProperties(prefix = "prople")
 public class DemoController {
 
+
     private String name;
     private String sex;
     private Integer age;
