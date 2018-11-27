@@ -35,9 +35,9 @@ public class DemoController {
         System.out.println("合并分支");
         System.out.println("master");
         System.out.println("哈哈dev");
-
+        String s1 = new String();
+        String s = new String();
         System.out.println("dev分支");
-
         System.out.println("heeh ");
     }
 
