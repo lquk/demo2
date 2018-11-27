@@ -34,6 +34,7 @@ public class DemoController {
         }
         System.out.println("合并分支");
         System.out.println("master");
+        System.out.println("哈哈dev");
 
     }
 
